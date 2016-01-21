@@ -2,6 +2,7 @@ name: TesteLuf
 favicon: null
 layout_spectrum: 0.3670211860444397
 typography_spectrum: 0.8099291464313865
+title: Teste Title
 cta:
   domain: null
   bucket: null
